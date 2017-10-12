@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "400c5eaf-7fac-4672-b6b8-4f24c2891e2f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bullet_guns_coins": {
+      "ver": "1.0.3",
+      "uuid": "4395642c-bf98-42ac-90c2-51baa72b6cda",
+      "rawTextureUuid": "400c5eaf-7fac-4672-b6b8-4f24c2891e2f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 25,
+      "height": 70,
+      "rawWidth": 25,
+      "rawHeight": 74,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
