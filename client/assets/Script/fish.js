@@ -25,7 +25,6 @@ cc.Class({
         // this.node.destroy();
         this.node.color=cc.Color.RED
 
-
     },
     onCollisionExit: function (other, self) {
         this.node.color=cc.Color.WHITE
