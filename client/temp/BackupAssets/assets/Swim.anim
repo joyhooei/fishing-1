@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Swim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 8,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "props": {
+      "position": [
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            -573,
+            -90
+          ],
+          "motionPath": [
+            [
+              38,
+              106,
+              -270,
+              116,
+              341,
+              97
+            ]
+          ]
+        },
+        {
+          "frame": 8,
+          "value": [
+            611,
+            -147
+          ],
+          "motionPath": []
+        }
+      ],
+      "rotation": [
+        {
+          "frame": 0,
+          "value": -27
+        },
+        {
+          "frame": 1.2666666666666666,
+          "value": -23
+        },
+        {
+          "frame": 2.6166666666666667,
+          "value": -17
+        },
+        {
+          "frame": 3.1333333333333333,
+          "value": -8
+        },
+        {
+          "frame": 4.216666666666667,
+          "value": 5
+        },
+        {
+          "frame": 4.983333333333333,
+          "value": 13
+        },
+        {
+          "frame": 5.866666666666666,
+          "value": 25
+        },
+        {
+          "frame": 6.616666666666666,
+          "value": 24
+        },
+        {
+          "frame": 6.833333333333333,
+          "value": 32
+        },
+        {
+          "frame": 7.983333333333333,
+          "value": 32
+        }
+      ]
+    }
+  },
+  "events": []
+}

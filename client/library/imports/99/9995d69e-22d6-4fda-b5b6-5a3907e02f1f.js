@@ -1,3 +1,9 @@
+"use strict";
+cc._RF.push(module, '9995daeItZP2rW2WjkH4C8f', 'animate');
+// Script/animate.js
+
+"use strict";
+
 cc.Class({
     extends: cc.Component,
 
@@ -12,29 +18,22 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        ani:cc.Animation
+        ani: cc.Animation
     },
 
     // use this for initialization
-    onLoad: function () {
-        this.ani.play("fish");
-
+    onLoad: function onLoad() {},
+    playJump: function playJump() {
+        this.ani.play("jump");
     },
-    onCollisionEnter: function (other, self) {
-        // this.node.color = "red"
-        // this.node.destroy();
-        this.node.color=cc.Color.RED
-
-
-    },
-    onCollisionExit: function (other, self) {
-        this.node.color=cc.Color.WHITE
-
-
-        // this.node.color = ""
+    playRun: function playRun() {
+        this.ani.play("run");
     }
+
     // called every frame, uncomment this function to activate update callback
     // update: function (dt) {
 
     // },
 });
+
+cc._RF.pop();

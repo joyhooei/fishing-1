@@ -1,0 +1,298 @@
+2017-10-12T06:55:50.498Z - normal: Load ~/.CocosCreator/settings.json
+2017-10-12T06:55:50.503Z - normal: checking language setting...
+2017-10-12T06:55:50.503Z - normal: Language: zh
+2017-10-12T06:55:50.873Z - success: protocol editor-framework registered
+2017-10-12T06:55:50.874Z - success: protocol app registered
+2017-10-12T06:55:50.874Z - success: protocol theme registered
+2017-10-12T06:55:50.874Z - success: protocol profile registered
+2017-10-12T06:55:50.874Z - success: protocol packages registered
+2017-10-12T06:55:50.876Z - success: protocol unpack registerred
+2017-10-12T06:55:50.876Z - success: protocol disable-commonjs registerred
+2017-10-12T06:55:51.014Z - normal: connected!
+2017-10-12T06:55:51.020Z - normal: Check project /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client
+2017-10-12T06:55:51.021Z - normal: Initializing Cocos2d
+2017-10-12T06:55:51.335Z - normal: Initializing Asset Database
+2017-10-12T06:55:51.371Z - success: protocol uuid registerred
+2017-10-12T06:55:51.372Z - success: protocol db registerred
+2017-10-12T06:55:51.372Z - success: protocol thumbnail registerred
+2017-10-12T06:55:51.372Z - normal: Loading editor/builtin packages
+2017-10-12T06:55:51.412Z - success: anysdk loaded
+2017-10-12T06:55:51.574Z - success: assets loaded
+2017-10-12T06:55:51.578Z - success: builder loaded
+2017-10-12T06:55:51.588Z - success: hierarchy loaded
+2017-10-12T06:55:51.594Z - success: inspector loaded
+2017-10-12T06:55:51.596Z - success: keystore loaded
+2017-10-12T06:55:51.600Z - success: node-library loaded
+2017-10-12T06:55:51.602Z - success: package-asset loaded
+2017-10-12T06:55:51.605Z - success: preferences loaded
+2017-10-12T06:55:51.623Z - success: project-importer loaded
+2017-10-12T06:55:51.626Z - success: project-settings loaded
+2017-10-12T06:55:51.630Z - success: ui-kit loaded
+2017-10-12T06:55:51.635Z - success: ui-grid loaded
+2017-10-12T06:55:51.641Z - success: scene loaded
+2017-10-12T06:55:51.642Z - success: sprite-editor loaded
+2017-10-12T06:55:51.646Z - success: store loaded
+2017-10-12T06:55:51.655Z - success: timeline loaded
+2017-10-12T06:55:51.655Z - normal: Loading builtin packages
+2017-10-12T06:55:51.660Z - success: asset-db-debugger loaded
+2017-10-12T06:55:51.662Z - success: code-editor loaded
+2017-10-12T06:55:51.664Z - success: color-picker loaded
+2017-10-12T06:55:51.671Z - success: console loaded
+2017-10-12T06:55:51.675Z - success: package-manager loaded
+2017-10-12T06:55:51.680Z - success: sdkbox loaded
+2017-10-12T06:55:51.684Z - success: tester loaded
+2017-10-12T06:55:51.689Z - success: ui-kit-preview-extra loaded
+2017-10-12T06:55:51.693Z - success: ui-kit-preview loaded
+2017-10-12T06:55:51.697Z - success: ui-tree loaded
+2017-10-12T06:55:52.611Z - normal: Initializing project /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client
+2017-10-12T06:55:52.614Z - normal: Loading packages
+2017-10-12T06:55:52.617Z - normal: Watching packages
+2017-10-12T06:55:52.632Z - normal: Run Application
+2017-10-12T06:55:53.326Z - success: preview server running at http://localhost:7456
+2017-10-12T06:55:58.038Z - normal: 1.5.2
+2017-10-12T06:56:53.476Z - warn: Key frame already exists
+2017-10-12T06:56:53.873Z - warn: Key frame already exists
+2017-10-12T06:56:54.226Z - warn: Key frame already exists
+2017-10-12T06:56:54.572Z - warn: Key frame already exists
+2017-10-12T06:56:54.951Z - warn: Key frame already exists
+2017-10-12T06:57:28.615Z - warn: Can not select this node in Animation Edit Mode
+2017-10-12T06:58:41.261Z - error: Can not remove cc.Animation Component in Animation Edit Mode
+    at Object.removeComponent (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:12489)
+    at editor-scene.scene:remove-component (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/scene.js:1:8930)
+    at Object.Panel._dispatch (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/panel.js:1:2294)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:5098)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:201:7)
+2017-10-12T07:02:39.486Z - warn: Key frame already exists
+2017-10-12T07:02:43.308Z - warn: Key frame already exists
+2017-10-12T07:05:28.379Z - warn: Key frame already exists
+2017-10-12T07:09:13.402Z - normal: Compiled project javascript file successfully
+2017-10-12T07:09:20.320Z - normal: Compiled project javascript file successfully
+2017-10-12T07:10:26.257Z - normal: Compiled project javascript file successfully
+2017-10-12T07:13:24.675Z - normal: Compiled project javascript file successfully
+2017-10-12T07:31:07.346Z - normal: Compiled project javascript file successfully
+2017-10-12T07:31:07.381Z - normal: Introduced global variable while editing: i
+2017-10-12T07:31:07.381Z - normal: Introduced global variable while editing: l
+2017-10-12T07:31:29.894Z - normal: Compiled project javascript file successfully
+2017-10-12T07:31:38.093Z - normal: Compiled project javascript file successfully
+2017-10-12T07:35:36.011Z - normal: Compiled project javascript file successfully
+2017-10-12T07:36:20.990Z - normal: Compiled project javascript file successfully
+2017-10-12T07:37:21.504Z - normal: Compiled project javascript file successfully
+2017-10-12T07:37:48.796Z - normal: Compiled project javascript file successfully
+2017-10-12T07:38:12.721Z - normal: Compiled project javascript file successfully
+2017-10-12T07:38:22.979Z - normal: Compiled project javascript file successfully
+2017-10-12T07:38:59.375Z - normal: Compiled project javascript file successfully
+2017-10-12T07:39:23.470Z - normal: Compiled project javascript file successfully
+2017-10-12T07:40:03.762Z - warn: Key frame already exists
+2017-10-12T07:55:25.918Z - error: Can't generate child path for node.
+    at Object.showTrajectoryGizmo (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/anim-utils.js:1:3739)
+    at Object.activate (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/anim-utils.js:1:4417)
+    at Object.activate (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js:1:18654)
+    at editor-scene.selection:activated (file:///Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/scene/panel/scene.js:1:14353)
+    at EventEmitter.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/polymer-utils.js:1:261)
+    at emitThree (events.js:121:20)
+    at EventEmitter.emit (events.js:194:7)
+2017-10-12T07:57:27.527Z - normal: Compiled project javascript file successfully
+2017-10-12T07:57:27.569Z - normal: Introduced global variable while editing: i
+2017-10-12T07:57:27.569Z - normal: Introduced global variable while editing: l
+2017-10-12T08:00:54.808Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build",
+  "debug": false,
+  "dest": "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/helloworld.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client",
+  "projectName": "hello_world",
+  "runtimePath": "/Applications/CocosCreator.app/Contents/Resources/engine",
+  "debugBuildWorker": false
+}
+2017-10-12T08:00:54.812Z - normal: Building /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client
+2017-10-12T08:00:54.812Z - normal: Destination /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile
+2017-10-12T08:00:55.256Z - normal: Delete /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/**/*
+2017-10-12T08:00:55.257Z - normal: Delete /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/src/*/
+2017-10-12T08:00:56.600Z - normal: Compiled project javascript file successfully
+2017-10-12T08:00:56.601Z - normal: Start building assets
+2017-10-12T08:00:56.601Z - normal: Start spawn build-worker
+2017-10-12T08:00:57.239Z - normal: Finish spawn build-worker
+2017-10-12T08:00:57.240Z - normal: Start init build-worker
+2017-10-12T08:00:58.942Z - normal: 1.5.2
+2017-10-12T08:00:58.993Z - normal: Finish init build-worker
+2017-10-12T08:00:58.994Z - normal: Start build-assets in worker
+2017-10-12T08:00:59.389Z - normal: Finish build-assets in worker
+2017-10-12T08:00:59.395Z - normal: Finish building assets
+2017-10-12T08:00:59.434Z - normal: Start building raw assets
+2017-10-12T08:00:59.435Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_2.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_2.png
+2017-10-12T08:00:59.436Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_8.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_8.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_4.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_4.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/scrollbarVertical.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/scrollbarVertical.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/bullet_guns_coins.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/bullet_guns_coins.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/sheep.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/sheep.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/game_bg_0.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/game_bg_0.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_7.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_7.png
+2017-10-12T08:00:59.437Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_3.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_3.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_6.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_9.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_9.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_5.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_5.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/loading_6.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_1.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_1.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_disabled.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_disabled.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_pressed.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_pressed.png
+2017-10-12T08:00:59.438Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_normal.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_normal.png
+2017-10-12T08:00:59.466Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_disabled.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_disabled.png
+2017-10-12T08:00:59.466Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/scrollbarVertical.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/scrollbarVertical.png
+2017-10-12T08:00:59.467Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_7.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_7.png
+2017-10-12T08:00:59.467Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/bullet_guns_coins.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/bullet_guns_coins.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_6.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_3.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_3.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_9.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_9.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_5.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_5.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_pressed.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_pressed.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/loading_6.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_normal.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_normal.png
+2017-10-12T08:00:59.468Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_2.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_2.png
+2017-10-12T08:00:59.469Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_1.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_1.png
+2017-10-12T08:00:59.470Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_8.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_8.png
+2017-10-12T08:00:59.471Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_4.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_4.png
+2017-10-12T08:00:59.471Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/sheep.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/sheep.png
+2017-10-12T08:00:59.480Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/game_bg_0.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/game_bg_0.png
+2017-10-12T08:00:59.480Z - normal: Finish building raw assets
+2017-10-12T08:00:59.494Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-10-12T08:00:59.518Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2017-10-12T08:00:59.523Z - normal: Built to "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile" successfully
+2017-10-12T08:50:03.721Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build",
+  "debug": false,
+  "dest": "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "web-mobile",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/helloworld.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "landscape",
+  "project": "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client",
+  "projectName": "hello_world",
+  "runtimePath": "/Applications/CocosCreator.app/Contents/Resources/engine",
+  "debugBuildWorker": false
+}
+2017-10-12T08:50:03.724Z - normal: Building /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client
+2017-10-12T08:50:03.724Z - normal: Destination /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile
+2017-10-12T08:50:03.803Z - normal: Delete /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/**/*
+2017-10-12T08:50:03.806Z - normal: Delete /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/src/*/
+2017-10-12T08:50:05.290Z - normal: Compiled project javascript file successfully
+2017-10-12T08:50:05.290Z - normal: Start building assets
+2017-10-12T08:50:05.290Z - normal: Start spawn build-worker
+2017-10-12T08:50:05.951Z - normal: Finish spawn build-worker
+2017-10-12T08:50:05.951Z - normal: Start init build-worker
+2017-10-12T08:50:07.885Z - normal: 1.5.2
+2017-10-12T08:50:07.971Z - normal: Finish init build-worker
+2017-10-12T08:50:07.972Z - normal: Start build-assets in worker
+2017-10-12T08:50:08.558Z - normal: Finish build-assets in worker
+2017-10-12T08:50:08.567Z - normal: Finish building assets
+2017-10-12T08:50:08.603Z - normal: Start building raw assets
+2017-10-12T08:50:08.604Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_2.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_2.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_8.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_8.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_4.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_4.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/scrollbarVertical.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/scrollbarVertical.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/bullet_guns_coins.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/bullet_guns_coins.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/sheep.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/sheep.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/game_bg_0.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/game_bg_0.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_7.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_7.png
+2017-10-12T08:50:08.605Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_3.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_3.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_6.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_9.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_9.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_5.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_5.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/loading_6.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_1.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_1.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_disabled.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_disabled.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_pressed.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_pressed.png
+2017-10-12T08:50:08.606Z - normal: [build-raw-assets] Start copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_normal.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_normal.png
+2017-10-12T08:50:08.656Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_disabled.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_disabled.png
+2017-10-12T08:50:08.657Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/scrollbarVertical.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/scrollbarVertical.png
+2017-10-12T08:50:08.658Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_7.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_7.png
+2017-10-12T08:50:08.660Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/bullet_guns_coins.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/bullet_guns_coins.png
+2017-10-12T08:50:08.660Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_3.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_3.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_9.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_9.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_5.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_5.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/loading_6.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_1.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_1.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_pressed.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_pressed.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Applications/CocosCreator.app/Contents/Resources/static/default-assets/image/default_btn_normal.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-internal/image/default_btn_normal.png
+2017-10-12T08:50:08.661Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_6.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_6.png
+2017-10-12T08:50:08.667Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/sheep.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/sheep.png
+2017-10-12T08:50:08.667Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_8.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_8.png
+2017-10-12T08:50:08.667Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_4.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_4.png
+2017-10-12T08:50:08.667Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/fish/loading_2.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/fish/loading_2.png
+2017-10-12T08:50:08.677Z - normal: [build-raw-assets] Finish copying /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/assets/Texture/game_bg_0.png to /Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile/res/raw-assets/Texture/game_bg_0.png
+2017-10-12T08:50:08.677Z - normal: Finish building raw assets
+2017-10-12T08:50:08.731Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-10-12T08:50:08.740Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2017-10-12T08:50:08.756Z - normal: Built to "/Users/ada/Documents/h5edu/Project/Fishing/FishProject/client/build/web-mobile" successfully
+2017-10-12T10:38:40.309Z - normal: Compiled project javascript file successfully

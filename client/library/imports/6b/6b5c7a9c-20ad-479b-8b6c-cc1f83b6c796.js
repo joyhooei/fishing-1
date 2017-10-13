@@ -1,3 +1,9 @@
+"use strict";
+cc._RF.push(module, '6b5c7qcIK1Hm4tszB+DtseW', 'fish');
+// Script/fish.js
+
+"use strict";
+
 cc.Class({
     extends: cc.Component,
 
@@ -12,24 +18,20 @@ cc.Class({
         //    readonly: false,    // optional, default is false
         // },
         // ...
-        ani:cc.Animation
+        ani: cc.Animation
     },
 
     // use this for initialization
-    onLoad: function () {
+    onLoad: function onLoad() {
         this.ani.play("fish");
-
     },
-    onCollisionEnter: function (other, self) {
+    onCollisionEnter: function onCollisionEnter(other, self) {
         // this.node.color = "red"
         // this.node.destroy();
-        this.node.color=cc.Color.RED
-
-
+        this.node.color = cc.Color.RED;
     },
-    onCollisionExit: function (other, self) {
-        this.node.color=cc.Color.WHITE
-
+    onCollisionExit: function onCollisionExit(other, self) {
+        this.node.color = cc.Color.WHITE;
 
         // this.node.color = ""
     }
@@ -38,3 +40,5 @@ cc.Class({
 
     // },
 });
+
+cc._RF.pop();

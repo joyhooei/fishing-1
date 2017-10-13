@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet_guns_coins",
+    "texture": "400c5eaf-7fac-4672-b6b8-4f24c2891e2f",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      25,
+      70
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      25,
+      74
+    ]
+  }
+}

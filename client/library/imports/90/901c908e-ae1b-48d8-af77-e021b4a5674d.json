@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "run",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b1766038-9486-4ba5-8f43-a040df6a4f4d"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "081bd317-72c4-4376-9105-37ae40e7f828"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "c947ff80-2a04-4b9c-9d6c-b248e771bec8"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "04b64b72-3884-466e-bfa3-7d575b805313"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": [
+    {
+      "frame": 0.43333333333333335,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "playJump",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 0.5,
+      "func": "",
+      "params": []
+    }
+  ]
+}
